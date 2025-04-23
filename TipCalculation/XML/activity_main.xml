@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Calculate Tip"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="12dp" />
+
+        <EditText
+            android:id="@+id/cost_of_service"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Bill Amount"
+            android:inputType="numberDecimal"
+            android:drawableLeft="@drawable/ic_attach_money"
+            android:drawablePadding="8dp"
+            android:minHeight="48dp"
+            android:padding="16dp"
+            android:background="@drawable/bg_outline"/>
+
+        <Spinner
+            android:id="@+id/tip_options"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:layout_marginTop="16dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="space_between"
+            android:layout_marginTop="16dp"
+            android:minHeight="48dp"
+            android:paddingVertical="8dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="Round up tip?" />
+
+            <Switch
+                android:id="@+id/round_up_switch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:padding="16dp"
+            android:layout_gravity="center_vertical" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/calculate_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Calculate"
+            android:minHeight="48dp"
+            android:paddingVertical="12dp"
+            android:layout_marginTop="24dp" />
+
+        <TextView
+            android:id="@+id/tip_result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tip Amount: $0.00"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginTop="32dp" />
+    </LinearLayout>
+</ScrollView>
