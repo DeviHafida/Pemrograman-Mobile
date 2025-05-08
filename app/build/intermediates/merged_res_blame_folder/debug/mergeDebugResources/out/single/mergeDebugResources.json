@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.example.modul3.app-debug-67:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.modul3.app-main-69:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/layout_fragment_film_detail.xml.flat",
+        "source": "com.example.modul3.app-main-69:/layout/fragment_film_detail.xml"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.modul3.app-main-69:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/drawable_rounded_bg.xml.flat",
+        "source": "com.example.modul3.app-main-69:/drawable/rounded_bg.xml"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.modul3.app-main-69:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/drawable_traumacode.jpg.flat",
+        "source": "com.example.modul3.app-main-69:/drawable/traumacode.jpg"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.modul3.app-main-69:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/layout_fragment_film_list.xml.flat",
+        "source": "com.example.modul3.app-main-69:/layout/fragment_film_list.xml"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/navigation_nav_graph.xml.flat",
+        "source": "com.example.modul3.app-main-69:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.modul3.app-main-69:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/drawable_ourbelovedsummer.jpg.flat",
+        "source": "com.example.modul3.app-main-69:/drawable/ourbelovedsummer.jpg"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.modul3.app-main-69:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.modul3.app-main-69:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.modul3.app-main-69:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.modul3.app-main-69:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/xml_backup_rules.xml.flat",
+        "source": "com.example.modul3.app-main-69:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/drawable_residentplaybook.jpeg.flat",
+        "source": "com.example.modul3.app-main-69:/drawable/residentplaybook.jpeg"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/layout_activity_main.xml.flat",
+        "source": "com.example.modul3.app-main-69:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.modul3.app-main-69:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.modul3.app-main-69:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.modul3.app-main-69:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/layout_item_film.xml.flat",
+        "source": "com.example.modul3.app-main-69:/layout/item_film.xml"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.modul3.app-main-69:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.modul3.app-main-69:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/drawable_dots.jpg.flat",
+        "source": "com.example.modul3.app-main-69:/drawable/dots.jpg"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/drawable_underthequeensumbrela.jpg.flat",
+        "source": "com.example.modul3.app-main-69:/drawable/underthequeensumbrela.jpg"
+    },
+    {
+        "merged": "com.example.modul3.app-debug-67:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.modul3.app-main-69:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
